@@ -1,0 +1,8 @@
+@software{ClementsPWPINNs2025,
+  author = {Clements, Rory},
+  month = {7},
+  title = {{Plane wave PINNs for coupled oscillators}},
+  howpublished = {\url{https://github.com/R-Clem/Plane-wave_PINNs}},
+  version = {1.0.0},
+  year = {2025}
+}
